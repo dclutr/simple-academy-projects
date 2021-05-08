@@ -1,8 +1,3 @@
-/*
-14BCE0579
-aksdadaks99@yahoo.co.in
-9952577747
-*/
 #include<iostream>
 #include<stdio.h>
 using namespace std;
