@@ -2,9 +2,21 @@
 
 1. and-or-trees
 
--a simple data strucure
+* a simple data strucure https://en.wikipedia.org/wiki/And%E2%80%93or_tree
 
--take user input to build one
+* take user input to build one
+
+* user input - A; B and C or D; E and F; G or H
+
+* tree - 
+* ....___________A___________...
+* ...|.....|.....|.....|.....|..
+* ...v.....v.....v.....v.....v..
+* .__B__...and.._C__...or....D..
+* |.|...|......|.|..|...........
+* v.v...v......v.v..v...........
+* E.and.F......G.or.H...........
+
 
 -print the tree as a logical expression
 
