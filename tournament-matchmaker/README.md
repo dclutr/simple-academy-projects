@@ -8,8 +8,8 @@ Fall 2015
 Fixtures of Single Elimination Tournament
 
 ### Contributors
-14BCE0579 - Akshansh Manchanda
-14BCE0580 - Shivanshu Dhawan Anil
+>14BCE0579 - Akshansh Manchanda
+>14BCE0580 - Shivanshu Dhawan Anil
 
 ### Problem Statement
 Write a program 
