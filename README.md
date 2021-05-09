@@ -9,6 +9,7 @@
 * user input - A; B and C or D; E and F; G or H
 
 * tree - 
+**
 * |--A
 * |  |--B
 * |  |  |--E
@@ -21,6 +22,7 @@
 * |  |--C
 * |  |--or
 * |  |--D
+**
 
 -print the tree as a logical expression
 
