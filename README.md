@@ -20,8 +20,8 @@
 * a file to maintain staff and patient records
 *
 * two methods 
-* one to allow patient access to list of staff members
-* another to allow staff members access to list of patients
+* one to allow a patient, access to the list of staff members
+* another to allow a staff member, access to the list of patients
 
 3. tournament-matchmaker
 
