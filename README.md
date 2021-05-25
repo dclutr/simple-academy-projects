@@ -1,5 +1,7 @@
 # simple-academy-projects
 
+I was looking at the comments in the code and yeah I am probably not coming back to these programs for a long time. But maybe a good reminder for me lol, "the importance of good comments". Here is a short description of the projects, which is not as much a torture to read as the code :P
+
 1. and-or-trees
 
 * a simple data strucure https://en.wikipedia.org/wiki/And%E2%80%93or_tree
